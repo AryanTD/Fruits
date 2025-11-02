@@ -14,14 +14,14 @@
   {
     "id": 3,
     "name": "Orange",
-    "price": 1.10,
+    "price": 1.1,
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
   },
   {
     "id": 4,
-    "name": "Lychee",
-    "price": 3.50,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Litchi_chinensis_fruits.JPG"
+    "name": "Grapes",
+    "price": 2.0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kyoho-grape.jpg"
   },
   {
     "id": 5,
@@ -32,7 +32,7 @@
   {
     "id": 6,
     "name": "Strawberry",
-    "price": 4.20,
+    "price": 4.2,
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/PerfectStrawberry.jpg"
   },
   {
@@ -43,9 +43,9 @@
   },
   {
     "id": 8,
-    "name": "Coconut",
-    "price": 2.50,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Cocos_nucifera_-_Ko_Samui.jpg"
+    "name": "Kiwi",
+    "price": 2.5,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Kiwi_aka.jpg"
   },
   {
     "id": 9,
@@ -56,8 +56,8 @@
   {
     "id": 10,
     "name": "Watermelon",
-    "price": 6.50,
-    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Taiwan_2009_Tainan_City_Organic_Watermelon_FRD_7962.jpg"
+    "price": 0.99,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Watermelon_cross_BNC.jpg"
   },
   {
     "id": 11,
